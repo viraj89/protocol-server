@@ -122,7 +122,7 @@ docker-compose up -d  # execute to start the MongoDB, RabbitMQ, Redis containers
 docker ps  # check running containers (MongoDB, RabbitMQ, Redis)
 ```
 
-# Protocol Server Setup Guide for BAP/BPP
+# Setups required for BAP/BPP
 
 ## Installing Protocol Server
 
@@ -157,7 +157,7 @@ Uh/qEeDz5LrZapUKal2vY4fxffIONciN1JWMMSVvcwu1pEX5cAnejYTc0NY+Pl88arkdNU2pr8Mo/HxV
 ```
 **Note**: Ensure that the installation steps above are completed before generating key pairs. Save your keys in a secure location.
 
-# Protocol Server Setup for BAP & BPP (Client & Network) - Docker-based Setup on Cloud
+# Setups required for BAP/BPP (Client & Network) - Docker-based Setup on Cloud
 
 We tested this setup on an Ubuntu machine, and root access is required.
 
@@ -342,7 +342,7 @@ To register on the BECKN Registry, follow these steps:
 
 - Check the "Verified" checkbox and save the entry.
 
-# Running Protocol Server
+# Steps to Start the Protocol Server
 
 ## Docker Deployment
 
